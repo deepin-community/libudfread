@@ -1,0 +1,25 @@
+libudfread (1.1.2-1) unstable; urgency=medium
+
+  * New upstream version 1.1.2
+
+ -- Vasyl Gello <vasek.gello@gmail.com>  Sat, 08 May 2021 21:16:41 +0000
+
+libudfread (1.1.1-1) unstable; urgency=medium
+
+  * New upstream version 1.1.1
+  * Bump Standards version to 4.5.1 (no change required)
+
+ -- Vasyl Gello <vasek.gello@gmail.com>  Sat, 19 Dec 2020 10:48:11 +0000
+
+libudfread (1.1.0-1) unstable; urgency=medium
+
+  * New upstream version 1.1.0.
+  * debian: add symbols for 1.1.0.
+
+ -- Vasyl Gello <vasek.gello@gmail.com>  Tue, 30 Jun 2020 12:47:42 +0000
+
+libudfread (1.0.0-1) unstable; urgency=medium
+
+  * Initial upload. Closes: 781399
+
+ -- Vasyl Gello <vasek.gello@gmail.com>  Mon, 22 Jun 2020 02:49:00 +0000

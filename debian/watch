@@ -1,0 +1,4 @@
+version=4
+
+opts=filenamemangle=s/.*\/archive\/(\d\S+)\/libudfread.*\.tar\.gz/libudfread-$1\.tar\.gz/g \
+https://code.videolan.org/videolan/libudfread/-/tags?sort=updated_desc /videolan/libudfread/-/archive/(\d\S+)/libudfread-.*\.tar\.gz.*
